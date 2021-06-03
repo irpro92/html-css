@@ -1,0 +1,87 @@
+{
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	}
+
+body{
+	  	background: #F6F2F2;
+	  	max-width: 1000px;
+	  	height: 1000px;
+	  	width: 100%;
+	  }
+ div{
+	  	
+     width: 100%;
+     height: 70px;   
+     background: #000000;
+	  }
+
+    ul{
+        margin-left: 30%;
+        width: 100%;
+        height: 70px;
+        font-size: 14px;
+        line-height: 70px;
+        font-family: Open Sans;
+      }
+
+     li{
+        
+       color: #E0E0E0;
+       }
+
+	  .home:hover{
+       background: #FF3F40;
+	  } 
+	  	    
+	 .portfo:hover{
+	    background: #FF3F40;	
+	  }
+
+	 .about:hover{
+        background: #FF3F40;
+	  }
+	  .contact:hover{
+        background: #FF3F40;
+	  }
+	  h1{
+	  	font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 60px;
+        
+        
+        text-transform: uppercase;
+	  }
+	  article{
+	  	width: 50%;
+	  }
+	  section{
+	  	width: 100px;
+	  	margin-left: 50%;
+	  	margin-top: -27%;
+	  }
+	  img{
+	  	width: 500px;
+        height: 400px;
+	  }
+	  .b1{
+	  	width: 227px;
+        height: 55px;
+        background: #FF2D2D;
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 34px;
+        border-radius: 10px; 
+        color: #E0E0E0;
+       
+	  }
